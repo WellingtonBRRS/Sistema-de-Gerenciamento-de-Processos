@@ -8,6 +8,6 @@ execução, logo, executando e livrando mais recursos para serem executados.
 
   Sinta-se a vontade de utilizar o código, o objetivo dele é auxiliar no estudo assim como eu encontrei outros codigos que me ajudaram.
   
-  Se possível deixe os créditos para me ajudar.
+  Se possível deixe os créditos, não custa nada.
   
   Att.: Well~~
